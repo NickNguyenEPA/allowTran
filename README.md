@@ -1,4 +1,4 @@
-#
+# This application helps visualize the Clean Air Act subsidy trading programs implemented by EPA's Clean Air and Electricity Markets Division (CAPD)
 # ----------------------------------------------
 
 ***This is the first attempt to combine Electron with [R-Portable](https://sourceforge.net/projects/rportable/files/R-Portable/) (version 3.4.0) and [RStudio Shiny](https://cran.r-project.org/web/packages/shiny/index.html) package to deliver Electron Applications that run standalone with R and Shiny.***
@@ -28,18 +28,15 @@ You can learn more about each of these components within the [Quick Start Guide]
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
-git clone https://github.com/ColumbusCollaboratory/electron-quick-start
 # Install Electron Packager (if first time)
 npm install electron-packager -g 
 # Go into the repository
-cd electron-quick-start
+cd allowTran
 # Install dependencies
 npm install
-# Run the app
-npm start
+
 # Build the Executable/App
-cd electron-quick-start
+
 npm run package-win
 OR
 npm run package-mac 
