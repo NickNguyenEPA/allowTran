@@ -1,4 +1,4 @@
-# This application helps visualize the Clean Air Act subsidy trading programs implemented by EPA's Clean Air and Electricity Markets Division (CAPD)
+# This application helps visualize the Clean Air Act trading programs implemented by EPA's Clean Air and Electricity Markets Division (CAPD)
 # ----------------------------------------------
 
 ***This is the first attempt to combine Electron with [R-Portable](https://sourceforge.net/projects/rportable/files/R-Portable/) (version 3.4.0) and [RStudio Shiny](https://cran.r-project.org/web/packages/shiny/index.html) package to deliver Electron Applications that run standalone with R and Shiny.***
