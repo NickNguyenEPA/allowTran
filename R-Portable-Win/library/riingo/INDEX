@@ -1,0 +1,33 @@
+convert_to_local_time   Convert the 'POSIXct' columns of a data frame
+                        to the local time zone
+is_supported_ticker     Ticker information
+riingo_browse_usage     Browse various pages of the Tiingo site
+riingo_crypto_latest    The latest day's worth of intraday data for a
+                        given cryptocurrency
+riingo_crypto_meta      Get meta data about a cryptocurrency on Tiingo
+riingo_crypto_prices    Get cryptocurrency prices aggregated through
+                        Tiingo
+riingo_crypto_quote     Quote and Top of Book data for a given
+                        cryptocurrency
+riingo_fundamentals_definitions
+                        Fundamentals - Definitions
+riingo_fundamentals_meta
+                        Fundamentals - Meta
+riingo_fundamentals_metrics
+                        Fundamentals - Metrics
+riingo_fundamentals_statements
+                        Fundamentals - Statements
+riingo_fx_prices        Forex - Prices
+riingo_fx_quote         Quote and Top of Book data for a given forex
+                        ticker
+riingo_iex_latest       The latest day's worth of intraday data for a
+                        given ticker
+riingo_iex_prices       Get stock or ETF prices from IEX through Tiingo
+riingo_iex_quote        Quote and Top of Book data for a given ticker
+riingo_latest           The latest day's worth of data for a given
+                        ticker
+riingo_meta             Get meta data about a ticker available on
+                        Tiingo
+riingo_news             Get news articles cultivated by Tiingo
+riingo_prices           Get stock or ETF prices from the Tiingo API
+riingo_set_token        Set and get your Tiingo API token

@@ -1,0 +1,142 @@
+FANG                    Stock prices for the "FANG" stocks.
+anomalize               Automatic group-wise Anomaly Detection
+between_time            Between (For Time Series): Range detection for
+                        date or date-time sequences
+bike_sharing_daily      Daily Bike Sharing Data
+box_cox_vec             Box Cox Transformation
+condense_period         Convert the Period to a Lower Periodicity (e.g.
+                        Go from Daily to Monthly)
+diff_vec                Differencing Transformation
+filter_by_time          Filter (for Time-Series Data)
+filter_period           Apply filtering expressions inside periods
+                        (windows)
+fourier_vec             Fourier Series
+future_frame            Make future time series from existing
+is_date_class           Check if an object is a date class
+lag_vec                 Lag Transformation
+log_interval_vec        Log-Interval Transformation for Constrained
+                        Interval Forecasting
+m4_daily                Sample of 4 Daily Time Series Datasets from the
+                        M4 Competition
+m4_hourly               Sample of 4 Hourly Time Series Datasets from
+                        the M4 Competition
+m4_monthly              Sample of 4 Monthly Time Series Datasets from
+                        the M4 Competition
+m4_quarterly            Sample of 4 Quarterly Time Series Datasets from
+                        the M4 Competition
+m4_weekly               Sample of 4 Weekly Time Series Datasets from
+                        the M4 Competition
+m4_yearly               Sample of 4 Yearly Time Series Datasets from
+                        the M4 Competition
+mutate_by_time          Mutate (for Time Series Data)
+normalize_vec           Normalize to Range (0, 1)
+pad_by_time             Insert time series rows with regularly spaced
+                        timestamps
+parse_date2             Fast, flexible date and datetime parsing
+plot_acf_diagnostics    Visualize the ACF, PACF, and CCFs for One or
+                        More Time Series
+plot_anomalies          Visualize Anomalies for One or More Time Series
+plot_anomaly_diagnostics
+                        Visualize Anomalies for One or More Time Series
+plot_seasonal_diagnostics
+                        Visualize Multiple Seasonality Features for One
+                        or More Time Series
+plot_stl_diagnostics    Visualize STL Decomposition Features for One or
+                        More Time Series
+plot_time_series        Interactive Plotting for One or More Time
+                        Series
+plot_time_series_boxplot
+                        Interactive Time Series Box Plots
+plot_time_series_cv_plan
+                        Visualize a Time Series Resample Plan
+plot_time_series_regression
+                        Visualize a Time Series Linear Regression
+                        Formula
+set_tk_time_scale_template
+                        Get and modify the Time Scale Template
+slice_period            Apply slice inside periods (windows)
+slidify                 Create a rolling (sliding) version of any
+                        function
+slidify_vec             Rolling Window Transformation
+smooth_vec              Smoothing Transformation using Loess
+standardize_vec         Standardize to Mean 0, Standard Deviation 1
+                        (Center & Scale)
+step_box_cox            Box-Cox Transformation using Forecast Methods
+step_diff               Create a differenced predictor
+step_fourier            Fourier Features for Modeling Seasonality
+step_holiday_signature
+                        Holiday Feature (Signature) Generator
+step_log_interval       Log Interval Transformation for Constrained
+                        Interval Forecasting
+step_slidify            Slidify Rolling Window Transformation
+step_slidify_augment    Slidify Rolling Window Transformation
+                        (Augmented Version)
+step_smooth             Smoothing Transformation using Loess
+step_timeseries_signature
+                        Time Series Feature (Signature) Generator
+step_ts_clean           Clean Outliers and Missing Data for Time Series
+step_ts_impute          Missing Data Imputation for Time Series
+step_ts_pad             Pad: Add rows to fill gaps and go from low to
+                        high frequency
+summarise_by_time       Summarise (for Time Series Data)
+taylor_30_min           Half-hourly electricity demand
+time_arithmetic         Add / Subtract (For Time Series)
+time_series_cv          Time Series Cross Validation
+time_series_split       Simple Training/Test Set Splitting for Time
+                        Series
+timetk-package          timetk: Time Series Analysis in the Tidyverse
+tk_acf_diagnostics      Group-wise ACF, PACF, and CCF Data Preparation
+tk_anomaly_diagnostics
+                        Automatic group-wise Anomaly Detection by STL
+                        Decomposition
+tk_augment_differences
+                        Add many differenced columns to the data
+tk_augment_fourier      Add many fourier series to the data
+tk_augment_holiday      Add many holiday features to the data
+tk_augment_lags         Add many lags to the data
+tk_augment_slidify      Add many rolling window calculations to the
+                        data
+tk_augment_timeseries   Add many time series features to the data
+tk_get_frequency        Automatic frequency and trend calculation from
+                        a time series index
+tk_get_holiday          Get holiday features from a time-series index
+tk_get_timeseries       Get date features from a time-series index
+tk_get_timeseries_unit_frequency
+                        Get the timeseries unit frequency for the
+                        primary time scales
+tk_get_timeseries_variables
+                        Get date or datetime variables (column names)
+tk_index                Extract an index of date or datetime from time
+                        series objects, models, forecasts
+tk_make_future_timeseries
+                        Make future time series from existing
+tk_make_holiday_sequence
+                        Make daily Holiday and Weekend date sequences
+tk_make_timeseries      Intelligent date and date-time sequence
+                        creation
+tk_seasonal_diagnostics
+                        Group-wise Seasonality Data Preparation
+tk_stl_diagnostics      Group-wise STL Decomposition (Season, Trend,
+                        Remainder)
+tk_summary_diagnostics
+                        Group-wise Time Series Summary
+tk_tbl                  Coerce time-series objects to tibble.
+tk_time_series_cv_plan
+                        Time Series Resample Plan Data Preparation
+tk_ts                   Coerce time series objects and tibbles with
+                        date/date-time columns to ts.
+tk_tsfeatures           Time series feature matrix (Tidy)
+tk_xts                  Coerce time series objects and tibbles with
+                        date/date-time columns to xts.
+tk_zoo                  Coerce time series objects and tibbles with
+                        date/date-time columns to xts.
+tk_zooreg               Coerce time series objects and tibbles with
+                        date/date-time columns to ts.
+ts_clean_vec            Replace Outliers & Missing Values in a Time
+                        Series
+ts_impute_vec           Missing Value Imputation for Time Series
+walmart_sales_weekly    Sample Time Series Retail Data from the Walmart
+                        Recruiting Store Sales Forecasting Competition
+wikipedia_traffic_daily
+                        Sample Daily Time Series Data from the Web
+                        Traffic Forecasting (Wikipedia) Competition

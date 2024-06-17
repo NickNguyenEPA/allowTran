@@ -1,0 +1,36 @@
+Quandl                  Retrieves Data from the Quandl Dataset endpoint
+                        and formats
+Quandl.api_key          Query or set Quandl API key
+Quandl.auth             Query or set Quandl API token
+Quandl.database.bulk_download_to_file
+                        Downloads a zip with all data from a Quandl
+                        database
+Quandl.database.bulk_download_url
+                        Returns the bulk download url
+Quandl.dataset.get      Retrieves Data from the Quandl Dataset endpoint
+Quandl.datatable        Retrieves Data from the Quandl Datatable
+                        endpoint
+Quandl.datatable.bulk_download_to_file
+                        Downloads a zip with all data requested from a
+                        Quandl database
+Quandl.datatable.bulk_download_url
+                        Generates and returns a bulk download url
+Quandl.pit.asofdate     Retrieves Point In Time Data from the Quandl
+                        PIT endpoint. As of date is used to see the
+                        table as it was at a specific point in time in
+                        the past.
+Quandl.pit.between      Retrieves Point In Time Data from the Quandl
+                        PIT endpoint. Between start and end will show
+                        all rows that were visible at any point between
+                        two specified points in time. It works
+                        inclusively, a row visible exactly at start or
+                        exactly at end will be shown too.
+Quandl.pit.fromto       Retrieves Point In Time Data from the Quandl
+                        PIT endpoint. From start to end will also show
+                        all rows that were visible at any point between
+                        two specified points in time, including start,
+                        but excluding end.
+Quandl.search           Search the Quandl database
+metaData                Retrieve metadata from a Quandl series or
+                        search results
+quandl.api              Executes Quandl API calls

@@ -1,0 +1,68 @@
+ac_9                    Autocorrelation at lag 9. Included for
+                        completion and consistency.
+acf_features            Autocorrelation-based features
+arch_stat               ARCH LM Statistic
+as.list.mts             Convert mts object to list of time series
+autocorr_features       The autocorrelation feature set from software
+                        package 'hctsa'
+binarize_mean           Converts an input vector into a binarized
+                        version from software package 'hctsa'
+compengine              CompEngine feature set
+crossing_points         Number of crossing points
+dist_features           The distribution feature set from software
+                        package 'hctsa'
+embed2_incircle         Points inside a given circular boundary in a
+                        2-d embedding space from software package
+                        'hctsa'
+entropy                 Spectral entropy of a time series
+firstmin_ac             Time of first minimum in the autocorrelation
+                        function from software package 'hctsa'
+firstzero_ac            The first zero crossing of the autocorrelation
+                        function from software package 'hctsa'
+flat_spots              Longest flat spot
+fluctanal_prop_r1       Implements fluctuation analysis from software
+                        package 'hctsa'
+heterogeneity           Heterogeneity coefficients
+histogram_mode          Mode of a data vector from software package
+                        'hctsa'
+holt_parameters         Parameter estimates of Holt's linear trend
+                        method
+hurst                   Hurst coefficient
+localsimple_taures      The first zero crossing of the autocorrelation
+                        function of the residuals from Simple local
+                        time-series forecasting from software package
+                        'hctsa'
+lumpiness               Time series features based on tiled windows
+max_level_shift         Time series features based on sliding windows
+motiftwo_entro3         Local motifs in a binary symbolization of the
+                        time series from software package 'hctsa'
+nonlinearity            Nonlinearity coefficient
+outlierinclude_mdrmd    How median depend on distributional outliers
+                        from software package 'hctsa'
+pacf_features           Partial autocorrelation-based features
+pred_features           The prediction feature set from software
+                        package 'hctsa'
+sampen_first            Second Sample Entropy of a time series from
+                        software package 'hctsa'
+sampenc                 Second Sample Entropy from software package
+                        'hctsa'
+scal_features           The scaling feature set from software package
+                        'hctsa'
+spreadrandomlocal_meantaul
+                        Bootstrap-based stationarity measure from
+                        software package 'hctsa'
+station_features        The stationarity feature set from software
+                        package 'hctsa'
+std1st_der              Standard deviation of the first derivative of
+                        the time series from software package 'hctsa'
+stl_features            Strength of trend and seasonality of a time
+                        series
+trev_num                Normalized nonlinear autocorrelation, the
+                        numerator of the trev function of a time series
+                        from software package 'hctsa'
+tsfeatures              Time series feature matrix
+unitroot_kpss           Unit Root Test Statistics
+walker_propcross        Simulates a hypothetical walker moving through
+                        the time domain from software package 'hctsa'
+yahoo_data              Yahoo server metrics
+zero_proportion         Proportion of zeros

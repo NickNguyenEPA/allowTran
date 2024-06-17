@@ -1,0 +1,4 @@
+alphavantager           alphavantager: A lightweight R interface to the
+                        Alpha Vantage API
+av_api_key              Set the Alpha Vantage API Key
+av_get                  Get financial data from the Alpha Vantage API
